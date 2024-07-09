@@ -1,5 +1,4 @@
 # Real-time-emotion-detection-using-sentimental-analysis-
-a model to capture human emotions in real-time.
 <h1 align="center">Hi 👋, I'm Sneha Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
